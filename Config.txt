@@ -1,1 +1,1 @@
-tcp://6.tcp.ngrok.io:19830 
+<Ss>6.tcp.ngrok.io:19830<Ss>
